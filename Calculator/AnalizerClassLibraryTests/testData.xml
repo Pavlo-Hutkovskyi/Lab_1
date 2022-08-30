@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<OperationDetails>
+	<Operation expected = "(" actual = "0"/>
+	<Operation expected = ")" actual = "0"/>
+	<Operation expected = "+" actual = "1"/>
+	<Operation expected = "-" actual = "1"/>
+	<Operation expected = "*" actual = "2"/>
+	<Operation expected = "/" actual = "2"/>
+	<Operation expected = "%" actual = "3"/>
+	<Operation expected = "m" actual = "4"/>
+	<Operation expected = "p" actual = "4"/>
+	<Operation expected = "-+mp" actual = "5"/>
+</OperationDetails>
